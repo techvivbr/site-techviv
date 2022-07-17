@@ -1,0 +1,17 @@
+baseURL = "http://techviv.com.br/"
+languageCode = "en-us"
+title = "TECHVIV"
+theme = "hugograyscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "TECHVIV - SEGURANÇA DA INFORMAÇÃO"
+
+[Author]
+    name = "TECHVIV"
+    email = "contato@techviv.com.br"
+
+[Social]
+    twitter = "techviv"
